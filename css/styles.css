@@ -1,0 +1,14 @@
+.output {
+  padding: 25px;
+  background-color: rgb(177, 203, 230);
+  border-radius: 5px;
+  text-align: center;
+  color: dodgerblue;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+input {
+  max-width: 100px;
+  margin-right: 20px;
+}
